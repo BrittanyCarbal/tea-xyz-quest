@@ -1,9 +1,9 @@
 {
   "name": "@brittanycarbal/tea-xyz-quest",
   "version": "2.0.0",
-  "description": "Tea Quest",
+  "description": "Quest for tea.xyz",
   "main": "index.js",
   "author": "@brittanycarbal",
   "repository": "https://github.com/BrittanyCarbal/tea-xyz-quest.git",
-  "license": "ISC",
+  "license": "ISC"
 }
